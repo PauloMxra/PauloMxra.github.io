@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.bginputs {
+
+    position: relative;
+    margin-left: 200px;
+    margin-top:75px; 
+    width: 1000px;
+    height: 600px;
+    border-radius: 20px;
+    padding: 40px;
+    background-color: rgb(0, 0, 0, 0.2);
+
+}
+
+.marP {
+    margin-left: 300px; 
+    display: flex;
+}
+.inpT{
+    margin-left: 15px;
+    width: 120px;
+    height: 35px;
+}
+
