@@ -1,0 +1,195 @@
+{
+    "Ficção": [
+      {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "ano": 1949,
+        "descricao": "Uma distopia sobre um regime totalitário que controla todos os aspectos da vida."
+      },
+      {
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": 1899,
+        "descricao": "A história de Bentinho e Capitu, marcada por ciúmes e dúvidas."
+      },
+      {
+        "titulo": "O Conto da Aia",
+        "autor": "Margaret Atwood",
+        "ano": 1985,
+        "descricao": "Um futuro onde mulheres férteis são usadas para procriação."
+      },
+      {
+        "titulo": "Grande Sertão: Veredas",
+        "autor": "João Guimarães Rosa",
+        "ano": 1956,
+        "descricao": "Um romance épico sobre o sertão brasileiro."
+      },
+      {
+        "titulo": "Ensaio sobre a Cegueira",
+        "autor": "José Saramago",
+        "ano": 1995,
+        "descricao": "Uma epidemia de cegueira revela o lado mais sombrio da humanidade."
+      }
+    ],
+    "Não Ficção": [
+      {
+        "titulo": "Sapiens: Uma Breve História da Humanidade",
+        "autor": "Yuval Noah Harari",
+        "ano": 2011,
+        "descricao": "Uma análise sobre a evolução da humanidade desde os primórdios."
+      },
+      {
+        "titulo": "O Gene",
+        "autor": "Siddhartha Mukherjee",
+        "ano": 2016,
+        "descricao": "História e impacto da genética na humanidade."
+      },
+      {
+        "titulo": "Como as Democracias Morrem",
+        "autor": "Steven Levitsky e Daniel Ziblatt",
+        "ano": 2018,
+        "descricao": "Um estudo sobre o declínio de regimes democráticos."
+      },
+      {
+        "titulo": "A Coragem de Ser Imperfeito",
+        "autor": "Brené Brown",
+        "ano": 2012,
+        "descricao": "Reflexões sobre vulnerabilidade e autenticidade."
+      },
+      {
+        "titulo": "O Andar do Bêbado",
+        "autor": "Leonard Mlodinow",
+        "ano": 2008,
+        "descricao": "Como o acaso influencia nossas vidas de forma invisível."
+      }
+    ],
+    "Autoajuda e Desenvolvimento Pessoal": [
+      {
+        "titulo": "Os 7 Hábitos das Pessoas Altamente Eficazes",
+        "autor": "Stephen R. Covey",
+        "ano": 1989,
+        "descricao": "Princípios para uma vida eficaz e com propósito."
+      },
+      {
+        "titulo": "O Poder do Agora",
+        "autor": "Eckhart Tolle",
+        "ano": 1997,
+        "descricao": "A importância da presença e da atenção plena."
+      },
+      {
+        "titulo": "Quem Pensa Enriquece",
+        "autor": "Napoleon Hill",
+        "ano": 1937,
+        "descricao": "Lições de sucesso financeiro e pessoal."
+      },
+      {
+        "titulo": "A Sutil Arte de Ligar o F*da-se",
+        "autor": "Mark Manson",
+        "ano": 2016,
+        "descricao": "Uma abordagem honesta sobre como viver melhor com menos culpa."
+      },
+      {
+        "titulo": "Essencialismo",
+        "autor": "Greg McKeown",
+        "ano": 2014,
+        "descricao": "Focar no que realmente importa e eliminar o excesso."
+      }
+    ],
+    "Tecnologia e Ciência": [
+      {
+        "titulo": "O Universo Numa Casca de Noz",
+        "autor": "Stephen Hawking",
+        "ano": 2001,
+        "descricao": "Uma introdução acessível à física moderna e ao universo."
+      },
+      {
+        "titulo": "A Revolução dos Bichos Digitais",
+        "autor": "Nicholas Carr",
+        "ano": 2010,
+        "descricao": "Impactos da tecnologia na mente e no comportamento."
+      },
+      {
+        "titulo": "Superinteligência",
+        "autor": "Nick Bostrom",
+        "ano": 2014,
+        "descricao": "Riscos e oportunidades da inteligência artificial."
+      },
+      {
+        "titulo": "O Dilema da Inovação",
+        "autor": "Clayton M. Christensen",
+        "ano": 1997,
+        "descricao": "Por que grandes empresas falham ao ignorar inovações disruptivas."
+      },
+      {
+        "titulo": "A Máquina do Tempo",
+        "autor": "H.G. Wells",
+        "ano": 1895,
+        "descricao": "Um dos primeiros romances de ficção científica sobre viagens no tempo."
+      }
+    ],
+    "Biografias e Memórias": [
+      {
+        "titulo": "Longa Caminhada até a Liberdade",
+        "autor": "Nelson Mandela",
+        "ano": 1994,
+        "descricao": "A autobiografia de um dos maiores líderes da história moderna."
+      },
+      {
+        "titulo": "Steve Jobs",
+        "autor": "Walter Isaacson",
+        "ano": 2011,
+        "descricao": "Biografia autorizada do cofundador da Apple."
+      },
+      {
+        "titulo": "O Diário de Anne Frank",
+        "autor": "Anne Frank",
+        "ano": 1947,
+        "descricao": "Relato comovente da vida de uma jovem judia durante o Holocausto."
+      },
+      {
+        "titulo": "Eu Sou Malala",
+        "autor": "Malala Yousafzai",
+        "ano": 2013,
+        "descricao": "A história da jovem que desafiou o Talibã em nome da educação."
+      },
+      {
+        "titulo": "Para Sempre Alice",
+        "autor": "Lisa Genova",
+        "ano": 2007,
+        "descricao": "Ficção inspirada em histórias reais de pessoas com Alzheimer."
+      }
+    ],
+    "Fantasia e Aventura": [
+      {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "autor": "J.R.R. Tolkien",
+        "ano": 1954,
+        "descricao": "O início da jornada épica pela Terra Média."
+      },
+      {
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "autor": "J.K. Rowling",
+        "ano": 1997,
+        "descricao": "O primeiro ano de Harry Potter em Hogwarts."
+      },
+      {
+        "titulo": "O Nome do Vento",
+        "autor": "Patrick Rothfuss",
+        "ano": 2007,
+        "descricao": "As memórias do mágico Kvothe, um dos maiores heróis do seu tempo."
+      },
+      {
+        "titulo": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+        "autor": "C.S. Lewis",
+        "ano": 1950,
+        "descricao": "Quatro irmãos descobrem um mundo mágico através de um guarda-roupa."
+      },
+      {
+        "titulo": "A Bússola de Ouro",
+        "autor": "Philip Pullman",
+        "ano": 1995,
+        "descricao": "A aventura de Lyra em um universo paralelo cheio de mistério."
+      }
+    ]
+  }
+  
