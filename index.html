@@ -9,19 +9,26 @@
     <script src='main.js'></script>
 </head>
 <body>
-    
+
     <div class="bginputs">
-    <div class="marP">
+        <p style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 30px; text-align: center;">Dragon Search</p>
+    <div class="marP flx">
     <p >Digite o número do personagem</p>
     <input class="inpT" type="number" id="numbInput" />
 </div>
 
+<div class="button1">
+<button  onclick="getDataFromInput()">Buscar Personagem</button>
+</div>
 
+<div class="persog">
+    <p>Nome do Personagem</p>
+<label id="nomePersonagem">...</label>
+<p></p>
 
-<button onclick="getDataFromInput()">Buscar Personagem</button>
-<label id="nomePersonagem">Nome do Personagem</label>
-<img id="imageVeg" src="" alt="Imagem do personagem" />
+<img id="imageVeg" src="" alt="Imagem do personagem" width="400px" height="600px" />
 
+</div>
 </div>
 </body>
 
